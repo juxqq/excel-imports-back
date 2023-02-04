@@ -68,7 +68,7 @@ class GroupController extends AbstractController
    #[Route('/api/groups/{id}', name: 'updateGroup', methods: ['PUT'])]
     public function updateBook(Request $request, SerializerInterface $serializer,
                                Group $currentGroup, EntityManagerInterface $em,
-                               GroupRepository $groupRepository, ValidatorInterface $validator){
+                               ValidatorInterface $validator){
         $updatedGroup = $serializer->deserialize($request->getContent(),
             Group::class,
             'json',
