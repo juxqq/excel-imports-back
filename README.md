@@ -1,4 +1,5 @@
 # Database dumps before / after POST request
+![image](https://user-images.githubusercontent.com/75832820/216766828-b2dea471-4ab7-4d6a-8194-a2fd6a47a4cf.png)
 ![image](https://user-images.githubusercontent.com/75832820/216766407-edcf1543-464a-4745-812f-9102cca2e4a1.png)
 ![image](https://user-images.githubusercontent.com/75832820/216766431-c422feaf-61d6-4e6c-8028-27dc32e9926e.png)
 ![image](https://user-images.githubusercontent.com/75832820/216766449-333ba409-ff0e-4fe7-adc3-216032130ca3.png)
